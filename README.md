@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojoifeanyi&label=Profile%20views&color=0e75b6&style=flat" alt="ojoifeanyi" /> </p>
 
-🌱 I’m currently learning **React Js**
+🌱 I’m currently learning **Node Js with Altschool Africa**
 
 📝 I regularly write articles on [https://ifeanyiojo.com/blog/](https://ifeanyiojo.com/blog/)
 
