@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning **Laravel**
 
-📝 Founder of [https://ctrlf.ng/](Ctrlf.Ng)
+📝 Founder of [Ctrlf.Ng](https://ctrlf.ng/)
 
 ⚡ Fun fact **I Love Animals and WildLife**
 
